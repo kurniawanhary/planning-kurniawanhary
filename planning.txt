@@ -2,5 +2,6 @@ Rencana pembelajaran coding :
 - memahami git & github
 - mengulang & mendalami HTML5
 - mengulang & mendalami CSS3
+- mempelajari bootstrap5
 - mengulang & mendalami dasar-dasar Javascript
 - mendapatkan certification freecodecamp
