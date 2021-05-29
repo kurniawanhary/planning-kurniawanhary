@@ -1,6 +1,6 @@
 Rencana pembelajaran coding :
-- follow youtube channel WPU
 - memahami git & github
 - mengulang & mendalami HTML5
 - mengulang & mendalami CSS3
 - mengulang & mendalami dasar-dasar Javascript
+- mendapatkan certification freecodecamp
